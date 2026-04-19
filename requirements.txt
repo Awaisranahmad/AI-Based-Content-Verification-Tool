@@ -1,2 +1,5 @@
+streamlit
+langchain-groq
 tavily-python
 validators
+python-dotenv
